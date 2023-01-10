@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @the-nayab
 - 👀 I’m interested in Full Stack Web Development & Android Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and React Js
 - 💞️ I’m looking to collaborate on Web D projects
-- 📫 How to reach me @the19precious@gmail.com
+- 📫 How to reach me nayab.alam19@hotmail.com
 
 <!---
 the-nayab/the-nayab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
