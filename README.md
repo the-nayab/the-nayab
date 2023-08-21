@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @the-nayab
-- 👀 I’m interested in Full Stack Web Development & Android Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Kotlin and React Js
 - 💞️ I’m looking to collaborate on Web D projects
 - 📫 How to reach me @nayab.alam19@hotmail.com
